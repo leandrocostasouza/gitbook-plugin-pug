@@ -1,7 +1,7 @@
 GitBook Pug Plugin
 ==============
 
-This is a [Pug](jade-lang.com/reference) GitBook plugins.
+This is a [Pug](http://jade-lang.com/reference) GitBook plugins.
   
   ```
 {% pug %}
